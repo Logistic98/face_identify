@@ -2,7 +2,7 @@
 
 ### 1. 目录结构及使用说明
 
-使用 Flask 将 RetinaFace 和 FaceNet 封装成特定人物识别服务，代码我已在Github上开源，项目地址：
+使用 Flask 将 RetinaFace 和 FaceNet 封装成特定人物识别服务。
 
 项目目录结构如下：
 
